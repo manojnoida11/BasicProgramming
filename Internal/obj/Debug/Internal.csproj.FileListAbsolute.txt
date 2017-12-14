@@ -1,0 +1,10 @@
+E:\Test_Apps\AllConcepts\Internal\bin\Debug\Internal.dll
+E:\Test_Apps\AllConcepts\Internal\bin\Debug\Internal.pdb
+E:\Test_Apps\AllConcepts\Internal\obj\Debug\Internal.dll
+E:\Test_Apps\AllConcepts\Internal\obj\Debug\Internal.pdb
+D:\Test_Apps\AllConcepts\Internal\bin\Debug\Internal.dll
+D:\Test_Apps\AllConcepts\Internal\bin\Debug\Internal.pdb
+D:\Test_Apps\AllConcepts\Internal\obj\Debug\Internal.dll
+D:\Test_Apps\AllConcepts\Internal\obj\Debug\Internal.pdb
+D:\Test_Apps\AllConcepts\Internal\obj\Debug\Internal.csprojResolveAssemblyReference.cache
+E:\Test_Apps\AllConcepts\Internal\obj\Debug\Internal.csprojResolveAssemblyReference.cache

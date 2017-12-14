@@ -1,0 +1,14 @@
+E:\Test_Apps\AllConcepts\AllConcepts\bin\Debug\AllConcepts.exe
+E:\Test_Apps\AllConcepts\AllConcepts\bin\Debug\AllConcepts.pdb
+E:\Test_Apps\AllConcepts\AllConcepts\obj\x86\Debug\AllConcepts.exe
+E:\Test_Apps\AllConcepts\AllConcepts\obj\x86\Debug\AllConcepts.pdb
+E:\Test_Apps\AllConcepts\AllConcepts\bin\Debug\Internal.dll
+E:\Test_Apps\AllConcepts\AllConcepts\bin\Debug\Internal.pdb
+E:\Test_Apps\AllConcepts\AllConcepts\obj\x86\Debug\AllConcepts.csprojResolveAssemblyReference.cache
+D:\Test_Apps\AllConcepts\AllConcepts\obj\x86\Debug\AllConcepts.exe
+D:\Test_Apps\AllConcepts\AllConcepts\obj\x86\Debug\AllConcepts.pdb
+D:\Test_Apps\AllConcepts\AllConcepts\bin\Debug\AllConcepts.exe
+D:\Test_Apps\AllConcepts\AllConcepts\bin\Debug\AllConcepts.pdb
+D:\Test_Apps\AllConcepts\AllConcepts\bin\Debug\Internal.dll
+D:\Test_Apps\AllConcepts\AllConcepts\bin\Debug\Internal.pdb
+D:\Test_Apps\AllConcepts\AllConcepts\obj\x86\Debug\AllConcepts.csprojResolveAssemblyReference.cache
