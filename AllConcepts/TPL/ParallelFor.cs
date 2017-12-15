@@ -37,6 +37,13 @@ namespace AllConcepts
 
         }
 
+        public void MethodAfterRestriction()
+        {
+            Parallel.For(0, 100, i => MultiplyByTwo(i));
+            Console.WriteLine("This method was created after approval was enforced!!!");
+
+        }
+
 
     }
 }
