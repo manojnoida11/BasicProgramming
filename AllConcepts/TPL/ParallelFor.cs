@@ -23,6 +23,13 @@ namespace AllConcepts
 
         }
 
-       
+        public void TestMethodNew()
+        {
+            Parallel.For(0, 100, i => MultiplyByTwo(i));
+            Console.WriteLine("I am manoj noida and i have made these changes.!!!");
+
+        }
+
+
     }
 }
