@@ -30,6 +30,13 @@ namespace AllConcepts
 
         }
 
+        public void AnotherMethod()
+        {
+            Parallel.For(0, 100, i => MultiplyByTwo(i));
+            Console.WriteLine("I am another method created by manoj noida!!!");
+
+        }
+
 
     }
 }
